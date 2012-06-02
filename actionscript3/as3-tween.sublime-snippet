@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Tweener.addTween(${1:this}, {${2:alpha}:${3:0}, time:${4:1}});
+${0}
+]]></content>
+	<tabTrigger>tween</tabTrigger>
+	<scope>source.actionscript</scope>
+</snippet>

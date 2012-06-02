@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+if (Tweener.isTweening(${1:this})) Tweener.removeTweens(${1});
+${0}
+]]></content>
+	<tabTrigger>tweenstop</tabTrigger>
+</snippet>

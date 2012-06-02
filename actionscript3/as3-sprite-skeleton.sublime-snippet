@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+package ${1} {
+
+	import flash.display.Sprite;
+	import flash.events.MouseEvent;
+
+	public class ${2} extends Sprite {
+
+		// ****************************** Declarations ******************************
+
+
+		// ****************************** Constructor ******************************
+		public function ${2}(){
+			${0}
+		}
+	}
+}
+]]></content>
+	<tabTrigger>sprite-skeleton</tabTrigger>
+	<scope>source.actionscript</scope>
+</snippet>
