@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[console.log("$1: "+ $1);
+		$0]]></content>
+	<tabTrigger>loglbl</tabTrigger>
+	<description>console.log("value:"+ value);</description>
+	<scope>source.js,text.html</scope>
+</snippet>
