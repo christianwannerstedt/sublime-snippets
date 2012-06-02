@@ -1,0 +1,9 @@
+[{
+    "keys": ["command+k"],
+    "command": "insert_snippet",
+    "args": {"name": "Packages/User/sublime-snippets/general/comment.sublime-snippet"}
+},{
+	"keys": ["ctrl+super+d"], "command": "toggle_side_bar"
+}, {
+	"keys": ["ctrl+d"], "command": "duplicate_line"
+}]
